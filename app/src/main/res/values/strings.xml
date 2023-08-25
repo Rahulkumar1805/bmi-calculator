@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myFirstApp</string>
+    <string name="hint_wt">Enter Weight (Kg)</string>
+    <string name="hint_ht_Ft">Enter Height (Ft)</string>
+    <string name="hint_ht_In">Enter Height (In)</string>
+    <string name="hint_btnCalc">Calculate BMI</string>
+</resources>
